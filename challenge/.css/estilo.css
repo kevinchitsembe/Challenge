@@ -36,11 +36,16 @@ div#lista2 a{
 	margin-right:30px;
 	float:right;
 }
+div#lista2 .borda{
+	border:1px solid #000;
+	border-radius:5px;
+	
+}
 
 /*Text*/
 h1{
 	/*font-size:1.5em;*/
-	font-size:80px;
+	font-size:75px;
 	font-weight:700;
 }
 p{
@@ -51,7 +56,7 @@ p{
 }
 /*foto grande*/
 aside#sideline img{
-	width:380px;
+	width:340px;
 	height:auto;
 	float:right;
 	margin-left:100px;
@@ -61,9 +66,9 @@ aside#sideline img{
 section#texto{
 	float:left;
 	margin-right:100px;
-	margin:10;
+	margin:-60;
 	padding:100;
-	margin-left:-120px;
+	margin-left:-145px;
 }
 div#saibamais a{
 	color:#808080;
@@ -75,11 +80,14 @@ div#saibamais a{
 	padding:10px;
 	margin-top:10px;
 	border-radius:10px;
-	margin-bottom:10px;
+	margin-top:30px;
+	/*margin-bottom:10px;*/
 }
-div#saibamais img{
-	width:100px;
+div#fotos img{
+	width:80px;
 	margin:0 5px;
-	
+	margin-top:30px;
+	margin-right:30px;
 }
+
 
